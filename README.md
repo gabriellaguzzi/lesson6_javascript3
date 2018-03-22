@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 22, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Gabriella Guzzi)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(By utilizing the proper code I learned how to create a working, moving photogallery. This gallery uses arrows to access and turn the pictures.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://gabriellaguzzi.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learn how to properly utilize document nodes and alter them for properly workin functions.)
+2. (I learned how to alter the src and img atribute values by changing loops that alter these values.)
+3. (I learned how to use figure and img nodes to add additional pictures to a photo gallery.)
